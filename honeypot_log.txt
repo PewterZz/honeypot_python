@@ -1,0 +1,180 @@
+Command from 127.0.0.1:52307: peter
+Command from 127.0.0.1:52307: ls
+Command from 127.0.0.1:52307: cd
+Command from 127.0.0.1:52307: dsad
+Command from 127.0.0.1:52307: ad
+Command from 127.0.0.1:52307: cd
+Command from 127.0.0.1:52307: ls
+Command from 127.0.0.1:53603: t3 12.1.2
+AS:2048
+HL:19
+Command from 127.0.0.1:53797: POST / HTTP/1.1
+Connection: close
+Host: localhost
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 88
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+<methodCall> <methodName>system.listMethods</methodName> <params></params> </methodCall>
+Command from 127.0.0.1:53925: SSTP_DUPLEX_POST /sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/ HTTP/1.1
+Host: 127.0.0.1
+SSTPCORRELATIONID: {5a433238-8781-11e3-b2e4-4e6d617021}
+Content-Length: 18446744073709551615
+Command from 127.0.0.1:53926: PROPFIND / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Depth: 0
+Connection: close
+Command from 127.0.0.1:54006: GET / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:54349: GET /robots.txt HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:54350: OPTIONS / HTTP/1.1
+Connection: close
+Host: localhost
+Access-Control-Request-Method: HEAD
+Origin: example.com
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Command from 127.0.0.1:55139: GET /nmaplowercheck1686397494 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:55140: OPTIONS / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:55300: GET /.git/HEAD HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:55580: GET / HTTP/1.1
+Host: localhost
+Authorization: NTLM TlRMTVNTUAABAAAAB4IIoAAAAAAAAAAAAAAAAAAAAAA=
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:55775: OPTIONS / HTTP/1.1
+Connection: close
+Host: localhost
+Access-Control-Request-Method: GET
+Origin: example.com
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Command from 127.0.0.1:56226: GET / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:56568: GET /HNAP1 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+tps://nmap.org/book/nse.html)
+Command from 127.0.0.1:56569: POST /IPHTTPS HTTP/1.1
+Host: localhost
+Content-Length: 18446744073709551615
+Command from 127.0.0.1:56732: OPTIONS / HTTP/1.1
+Connection: close
+Host: localhost
+Access-Control-Request-Method: POST
+Origin: example.com
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Command from 127.0.0.1:56803: OPTIONS / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:57193: PROPFIND / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Depth: 0
+Connection: close
+Command from 127.0.0.1:57708: GET / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:58056: PKGM / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:58123: OPTIONS / HTTP/1.1
+Connection: close
+Host: localhost
+Access-Control-Request-Method: PUT
+Origin: example.com
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Command from 127.0.0.1:59246: HEAD / HTTP/1.1
+X-Transcend-Version: 1
+X-Aggregate-Auth: 1
+X-AnyConnect-Platform: mac-intel
+Connection: close
+Host: localhost
+Accept-Encoding: identity
+Accept: */*
+User-Agent: AnyConnect Darwin_i386 3.1.05160
+Command from 127.0.0.1:59626: GET / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:59695: OPTIONS / HTTP/1.1
+Connection: close
+Host: localhost
+Access-Control-Request-Method: DELETE
+Origin: example.com
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Command from 127.0.0.1:60586: GET / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:61076: HEAD / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:61145: OPTIONS / HTTP/1.1
+Connection: close
+Host: localhost
+Access-Control-Request-Method: TRACE
+Origin: example.com
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Command from 127.0.0.1:61597: POST / HTTP/1.1
+Host: localhost
+Content-Length: 0
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+Connection: close
+Command from 127.0.0.1:51728: ls
+Command from 127.0.0.1:51728: b'\xff\xf4\xff\xfd\x06'
+Command from 127.0.0.1:51728: b'\xff\xf4\xff\xfd\x06'
+Command from 127.0.0.1:51850: ls
+Command from 127.0.0.1:52057: ls
+Command from 127.0.0.1:52057: b'\r\n'
+Command from 127.0.0.1:52296: ls
+Command from 127.0.0.1:52296: b'\r\n'
+Command from 127.0.0.1:52390: ls
+Command from 127.0.0.1:52487: ls
+Command from 127.0.0.1:52487: ls
+Command from 127.0.0.1:52487: touch file.txt
+Command from 127.0.0.1:52487: ls
+Command from 127.0.0.1:52487: ls
+Command from 127.0.0.1:52704: ls
+Command from 127.0.0.1:52840: ls
+Command from 127.0.0.1:52840: touch file.txt
+Command from 127.0.0.1:52840: ls
+Command from 127.0.0.1:52971: ls
+Command from 127.0.0.1:52971: touch file.tsx
+Command from 127.0.0.1:52971: ls
+Command from 127.0.0.1:52971: ls
+Command from 127.0.0.1:52971: ls
+Command from 127.0.0.1:52971: ls
+Command from 127.0.0.1:52971: cat file.tsx
+Command from 127.0.0.1:52971: ls
+Command from 127.0.0.1:52971: b'\xff\xf4\xff\xfd\x06'
+Command from 127.0.0.1:53047: ls
+Command from 127.0.0.1:53047: b'\r\n'
+Command from 127.0.0.1:53109: ls
+Command from 127.0.0.1:53109: touch file.tsx
+Command from 127.0.0.1:53109: dasdas
+Command from 127.0.0.1:53109: adadaoakodaks
+Command from 127.0.0.1:53109: odakda
+Command from 127.0.0.1:53109: akodakodad
+Command from 127.0.0.1:53109: adaodaodkaosda
+Command from 127.0.0.1:53109: asdoajoda
